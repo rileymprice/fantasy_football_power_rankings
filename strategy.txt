@@ -1,0 +1,8 @@
+2 step dominance
+Best possible score for team (% of best possible score)
+    Possibly also compare the % of best possible scores (my team had best possible of 200 and I score 150 equating to 75%. Other teams may have scored better but I may have better percentages)
+---Rest of Schedule predictions per player
+    Not do this???
+COMPLETE - Median W/L (score vs weeks median score -cumulative over season)
+    Compare the team's score to the median score for each week. Each team will have a W/L ratio over the season. 
+Points for (cumulative)
